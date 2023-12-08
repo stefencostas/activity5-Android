@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">activity5</string>
+    <string name="request">Request</string>
+    <string name="storage_access">Storage Access</string>
+    <string name="internet_access">Internet Access</string>
+    <string name="contacts_access">Contacts Access</string>
+    <string name="application_permissions">Application Permissions</string>
+    <string name="back">Back</string>
+    <string name="phone_state_access">Phone State Access</string>
+    <string name="sms_access">SMS Access</string>
+    <string name="vibrate_access">Vibrate Access</string>
+    <string name="manage">Manage</string>
+    <string name="app_permissions">App Permissions</string>
+</resources>
